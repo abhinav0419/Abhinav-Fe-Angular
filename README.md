@@ -26,6 +26,6 @@ To run the project simply clone the project and run the index file in the browse
 11. Implementing the angular filter in the CardNumberApp folder
 12. Run the Application by running the index.html
 13.  For running the test install npm init for package.json file
-14. After nam init install angular mock and jasmine core
+14. After npm init install angular mock and jasmine core
 15. then install karma and do karma init for karma config file
-16. After installing karma run karma start by specifying the files in the files of karma config.
+16. After installing karma running the command "karma start" by specifying the files in the files of karma config.
