@@ -19,11 +19,11 @@
     <div class="form-group">
         <label><span id="cardNumberStar">*</span> &nbsp;CARD NUMBER</label>
         <br>
-        <input type="text" id="cardNumberInput" class="form-control" placeholder="Enter Your Card Number"/>
-        <script src="bower_components/angular/angular.js"></script>
+        <input type="text" id="cardNumberInput" ng-model="cardNumber" class="form-control {{cardNumber | cardNumberFilter}}" placeholder="Enter Your Card Number"/>
+        <image src="images/default.png" />
         <script src="bower_components/angular/angular.min.js"></script>
-        <script src="cardNumberApp/cardNumberModule.js.js"></script>
-        <script src="cardNumberApp/cardNumberFilter.js"></script>
+        <script src="app/app.js"></script>
+        <script src="app/cardNumberFilter.js"></script>
     </div>
 </div>
 </body>
