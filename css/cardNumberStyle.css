@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.cardDetails{
+    background-color: #EEF4F4;
+    margin-top:172px;
+    width:35%;
+}
+#cardNumberStar{
+    color:#49C3E8;
+    font-size: 25px;
+}
+label {
+    color:#383838;
+    font-size: 20px;
+}
+
+.default{
+    background-image:url("../images/default.png");
+}
+.discover {
+    background-image:url("../images/discover.jpg");
+}
+.maestro {
+    background-image:url("../images/maestro.gif");
+}
+.mastercard {
+    background-image:url("../images/mastercard.gif");
+}
+.paypal {
+    background-image:url("../images/paypal.png");
+}
+.visa {
+    background-image:url("../images/visa.gif");
+}
