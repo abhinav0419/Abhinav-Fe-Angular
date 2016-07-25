@@ -29,12 +29,13 @@ label {
 .mastercard {
     background-image:url("../images/mastercard.gif");
 }
-.paypal {
-    background-image:url("../images/paypal.png");
+.amex {
+    background-image:url("../images/amex.png");
 }
 .visa {
     background-image:url("../images/visa.gif");
 }
+
 #cardNumberInput{
     padding-left:80px;
     background-position: left;
