@@ -37,12 +37,8 @@ label {
 }
 
 #cardNumberInput{
-    padding-left:80px;
+    padding-left: 100px;
     background-position: left;
-    background-size: 70px 50px;
+    background-size: 60px 40px;
     background-repeat: no-repeat;
-    display:inline-block;
-    height:50%;
-    font-size:16px;
-    font-weight:700;
 }
