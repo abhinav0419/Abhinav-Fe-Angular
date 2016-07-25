@@ -1,0 +1,29 @@
+{
+  "name": "abhinav-coding-challenge",
+  "homepage": "https://github.com/abhinav0419/Abhinav-Fe-Angular",
+  "description": "Displaying Images based on Card Number",
+  "main": "",
+  "keywords": [
+    "angular",
+    "bower",
+    "filter",
+    "bootstrap",
+    "grunt"
+  ],
+  "authors": [
+    "abhinav pandey"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3"
+  }
+}
